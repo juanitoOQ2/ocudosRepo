@@ -1,4 +1,10 @@
-{
-  "ip": "123456",
-  "country_name": "colombia"
-}
+[
+  {
+    "id":"maquina_1",
+    "active":"1"
+  },
+  {
+    "id":"maquina_2",
+    "active":"0"
+  }
+]
